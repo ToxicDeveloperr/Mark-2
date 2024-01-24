@@ -59,13 +59,13 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/a_movies_request_group')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/movies_market_backup')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/the_owner_support')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+orSJ0mG9Un8yZjQ1')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://telegram.me/Indian3DCinema')
+TUTORIAL = environ.get('TUTORIAL', 'https://telegram.me/Indian3DCinema')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'Hello My Dear Friends ❤️')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001787750204'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'the_owner_support')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Queries_Assistant_Bot')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
@@ -88,10 +88,8 @@ LANGUAGES = ["malayalam", "mal", "tamil", "tam" ,"english", "eng", "hindi", "hin
 SEASONS = ["season 1" , "season 2" , "season 3" , "season 4", "season 5" , "season 6" , "season 7" , "season 8" , "season 9" , "season 10"]
 
 
-                           # Don't Remove Credit @VJ_Botz
-                           # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-                           # Ask Doubt on telegram @KingVJ01
-
+                           # Don't Remove Credit @tejdeveloper
+                           
 
 # Online Stream and Download
 NO_PORT = bool(environ.get('NO_PORT', False))
