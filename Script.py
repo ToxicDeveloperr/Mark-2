@@ -24,7 +24,7 @@ Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛ�
 Where is source code? - <a href='https://telegram.me/Assistant_24_7_bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
 
-Developer - <a href='https://t.me/TejDeveloper'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+Developer - <a href='https://telegram.me/Assistant_24_7_bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
 
 
@@ -49,7 +49,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/Assistant_24_7_bot)</code>
+<code>[Button Text](buttonurl:https://t.me/Queries_Assistant_Bot)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -80,9 +80,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/TejDeveloper>☢TejDeveloper☢</a></b>
+ <b>✯ Maintained by : <a href=https://telegram.me/Assistant_24_7_bot>☢TejDeveloper☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/movies_market_backup>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://telegram.me/Indian3DCinema>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -153,7 +153,7 @@ Nᴀᴍᴇ - {}"""
     
 ᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ 
 ʜᴇʀᴇ, 👇 👇
-@Assistant_24_7_bot 
+@Queries_Assistant_Bot 
 ᴡᴇ ᴡɪʟʟ ʀᴇᴘʟʏ ʏᴏᴜ ᴀꜱ ꜱᴏᴏɴ 
 ᴀꜱ ᴘᴏꜱꜱɪʙʟᴇ...
     
@@ -176,7 +176,7 @@ Nᴀᴍᴇ - {}"""
     
     ᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ 
     ʜᴇʀᴇ, 👇 👇
-    @Assistant_24_7_bot 
+    @Queries_Assistant_Bot 
     ᴡᴇ ᴡɪʟʟ ʀᴇᴘʟʏ ʏᴏᴜ ᴀꜱ ꜱᴏᴏɴ
     ᴀꜱ ᴘᴏꜱꜱɪʙʟᴇ..."""
 
