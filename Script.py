@@ -216,8 +216,6 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-    caption: {file_caption}
-
 <b> Size ⚙️: {file_size}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
