@@ -214,11 +214,21 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>⚡File uploaded by⚡\n {file_name}
+    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ: {file_name}</b>
 
 <b> Size ⚙️: {file_size}</b>
 
-<b> File Caption: {file_caption}</b>""" 
+<b>•─────•────────•─────•
+📌 ʀᴇǫᴜᴇsᴛ ᴀɴʏ ғɪʟᴍ  : </b><a href="https://t.me/+yQsATX3-VBxmYjU1">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a><b>
+🎬🆕 ʜɪɴᴅɪ ʜᴅ ᴍᴏᴠɪᴇ</b>  <b>: </b><a href="https://t.me/+0Y15EqHG87RhMDZl">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a><b>
+•─────•────────•─────•
+ᴘʀᴇᴍɪᴜᴍ + 🆓 ᴄʜᴀɴɴᴇʟs👇
+📺 </b><a href="https://t.me/+UVbIt6lDZMhhNzJl">HoIIywоod</a><b>  |  </b><a href="https://t.me/+H05LI9519D1kYzhl">NetfIix</a><b>  |  </b><a href="https://t.me/+91VgAfHgx_hkOGVl">Amåzоn</a><b> 
+</b><a href="https://t.me/+RRl46PZBpClmM2M1">D!sney + Hоtstar</a><b>   | </b><a href="https://t.me/+A8_XGnV-DyswMDM1">South Mоv!e</a><b>
+</b><a href="https://t.me/+MHyqpSEExJBhMTE1">💕 K•Drama</a><b>  | </b><a href="https://t.me/+zopWS1yQ8pczNTNl">Cartoons & An!mes👹</a><b>
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+✅Now Available In [🇫​🇷​🇪​🇪​]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
