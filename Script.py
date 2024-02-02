@@ -218,7 +218,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 <b> Size ⚙️: {file_size}</b>
 
-<b> File InFo: {file_caption}</b>""" 
+<b> File Caption: {file_caption}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
