@@ -214,7 +214,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """📁 \n{file_name}
+    CAPTION = """<b>Discuss Issues With [My Team™](https://telegram.me/Queries_Assistant_Bot)</b>\n\n {file_name}
 
 <b> Size ⚙️: {file_size}</b>
 
